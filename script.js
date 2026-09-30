@@ -867,13 +867,9 @@ Please call me when you're ready. ❤️
     </a>
 
 
-    <p class="small-note">
+   
 
-      Replace 9000000000
-      with the real number
-      before sharing.
-
-    </p>
+   
 
   `);
 
